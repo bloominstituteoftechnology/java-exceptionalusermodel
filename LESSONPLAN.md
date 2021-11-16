@@ -6,7 +6,7 @@ Please take a moment to reflect on what you have previously learned and hope to 
 
 #### Daily Resources
 
-* [Guided Project Initial Version](https://github.com/LambdaSchool/java-exceptionalusermodel/tree/master/usermodel-initial)
+* [Guided Project Initial Version](https://github.com/BloomInstituteOfTechnology/java-exceptionalusermodel/tree/master/usermodel-initial)
 * [Slido](https://app.sli.do/event/XXXXXXXX)
 * [Zoom like](https://lambdaschool.zoom.us/j/#########)
 
